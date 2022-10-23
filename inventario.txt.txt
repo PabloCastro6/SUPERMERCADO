@@ -1,4 +1,7 @@
 trabajo de entornos 
+#Breve explicacion de lo que es
+# y para que sirve
 
 ¿Qué es un entorno de desarrollo y para qué sirve?
-Un entorno de desarrollo integrado (IDE) es una aplicación de software que ayuda a los programadores a desarrollar código de software de manera eficiente. Aumenta la productividad de los desarrolladores al combinar capacidades como editar, crear, probar y empaquetar software en una aplicación fácil de usar.
+
+
